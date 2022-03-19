@@ -324,10 +324,6 @@ nav a {
   }
 }
 
-nav {
-  margin-bottom: 3rem;
-}
-
 nav ul {
   display: flex;
   justify-content: center;
